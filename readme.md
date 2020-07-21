@@ -34,6 +34,10 @@ Python >= 3.6
 ## false pylint import errors & pytest test discovery failures
 Add to PYTHONPATH the current folder.
 ### win
+```bash
 set PYTHONPATH=C:\path_to_project\
+```
 ### mac & LIN
+```bash
 export PYTHONPATH='/path_to_project/'
+```
