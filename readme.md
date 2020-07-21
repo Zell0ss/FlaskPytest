@@ -31,9 +31,9 @@ Python >= 3.6
 
 [MIT](http://www.opensource.org/licenses/mit-license.html)
 
-# false pylint import errors & pytest test discovery failures
+## false pylint import errors & pytest test discovery failures
 Add to PYTHONPATH the current folder.
-##win
+### win
 set PYTHONPATH=C:\path_to_project\
-##mac & LIN
+### mac & LIN
 export PYTHONPATH='/path_to_project/'
