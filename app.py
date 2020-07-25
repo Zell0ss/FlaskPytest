@@ -11,12 +11,11 @@ def index():
 def health():
     return jsonify({'health': 'Good, doctor!'})
 
-@app.route('/list')
-def list():
+@app.route('/listall')
+def listall():
     return jsonify({'/': 'hello world', '/list': 'list endpoints', '/health/':'app health'})
 
 
 
 if __name__ == '__main__':
     app.run(debug=True)
-    
