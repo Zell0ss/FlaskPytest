@@ -1,3 +1,7 @@
+# Mini example of Flask and Pytest
+
+![Actions Workflow](https://github.com/po5i/flask-mini-tests/workflows/Flask/badge.svg)
+
 Based on https://github.com/po5i/flask-mini-tests.git
 
 ## Setup
